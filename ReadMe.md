@@ -1,3 +1,12 @@
+# DSCoder
+增加了转换到VOC格式的脚本
+
+需要修改名字的同学请直接修改源代码
+
+python voc_converter.py
+
+
+
 # CCTSDB
 CSUST Chinese Traffic Sign Detection Benchmark
 中国交通数据集由长沙理工大学综合交通运输大数据智能处理湖南省重点实验室张建明老师团队制作完成。
